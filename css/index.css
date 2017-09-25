@@ -18,13 +18,7 @@ a{
 
     padding-top: 15px;
 }
-/*.img-perfil{
-    width: 150px;
-    border-radius: 50%;    
-}*/
-/*p{
-    text-align: justify;
-}*/
+
 
 .navegacao-list-iten{
     display: inline;
@@ -58,20 +52,3 @@ ul{
 li{
     list-style: none;
 }
-/*
-footer{
-    text-align: center;
-    background-color: #BFD9D9;
-    color: #ffffff;
-    padding: 2px;
-    margin-top: 30px;
-}
-
-.centralizador{
-    text-align: center;
-}
-
-    nav ul li a:hover{
-    color:#ffffff;
-    text-decoration: none;
-    }*/
